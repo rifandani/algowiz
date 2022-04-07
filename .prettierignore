@@ -1,0 +1,9 @@
+node_modules
+yarn.lock
+public
+src/assets
+
+# cypress
+data
+build
+coverage
